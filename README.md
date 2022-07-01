@@ -1,0 +1,14 @@
+# node-fetch
+Simple call api use node-fetch
+
+step by step:
+1. clonde this project
+2. npm init
+3. npm install node-fetch
+4. node app.js
+5. check result on you terminal / cmd prompt
+6. enjoy :-)
+
+note:
+1. recommended for using latest version of node-js
+2. use import not required
