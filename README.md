@@ -2,7 +2,7 @@
 Simple call api use node-fetch
 
 step by step:
-1. clonde this project
+1. clone this project
 2. npm init
 3. npm install node-fetch
 4. node app.js
